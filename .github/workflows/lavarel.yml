@@ -1,6 +1,6 @@
 name: test Composite Action
 
-on: [push]
+on: workflow_dispatch
 
 jobs:
     local-action:
